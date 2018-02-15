@@ -59,7 +59,7 @@
   "load": "Load",
   "logo": "Logo",
   "manifest": "IIIF Manifest",
-  "metadataTooltip": "View information/metadata about this object",
+  "metadataTooltip": "View item details",
   "mirrorTooltip": "Mirror image",
   "more": "more",
   "myManifests": "My Manifests",
